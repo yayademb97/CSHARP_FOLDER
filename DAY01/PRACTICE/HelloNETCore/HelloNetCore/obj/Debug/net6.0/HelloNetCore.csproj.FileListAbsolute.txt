@@ -1,0 +1,15 @@
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY01\PRACTICE\Hello .NET Core!\HelloNetCore\bin\Debug\net6.0\HelloNetCore.exe
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY01\PRACTICE\Hello .NET Core!\HelloNetCore\bin\Debug\net6.0\HelloNetCore.deps.json
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY01\PRACTICE\Hello .NET Core!\HelloNetCore\bin\Debug\net6.0\HelloNetCore.runtimeconfig.json
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY01\PRACTICE\Hello .NET Core!\HelloNetCore\bin\Debug\net6.0\HelloNetCore.dll
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY01\PRACTICE\Hello .NET Core!\HelloNetCore\bin\Debug\net6.0\HelloNetCore.pdb
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY01\PRACTICE\Hello .NET Core!\HelloNetCore\obj\Debug\net6.0\HelloNetCore.csproj.AssemblyReference.cache
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY01\PRACTICE\Hello .NET Core!\HelloNetCore\obj\Debug\net6.0\HelloNetCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY01\PRACTICE\Hello .NET Core!\HelloNetCore\obj\Debug\net6.0\HelloNetCore.AssemblyInfoInputs.cache
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY01\PRACTICE\Hello .NET Core!\HelloNetCore\obj\Debug\net6.0\HelloNetCore.AssemblyInfo.cs
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY01\PRACTICE\Hello .NET Core!\HelloNetCore\obj\Debug\net6.0\HelloNetCore.csproj.CoreCompileInputs.cache
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY01\PRACTICE\Hello .NET Core!\HelloNetCore\obj\Debug\net6.0\HelloNetCore.dll
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY01\PRACTICE\Hello .NET Core!\HelloNetCore\obj\Debug\net6.0\refint\HelloNetCore.dll
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY01\PRACTICE\Hello .NET Core!\HelloNetCore\obj\Debug\net6.0\HelloNetCore.pdb
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY01\PRACTICE\Hello .NET Core!\HelloNetCore\obj\Debug\net6.0\HelloNetCore.genruntimeconfig.cache
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY01\PRACTICE\Hello .NET Core!\HelloNetCore\obj\Debug\net6.0\ref\HelloNetCore.dll
