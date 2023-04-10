@@ -1,0 +1,15 @@
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\DAY01\COURS_LECTURE\FirstCSharpProject\bin\Debug\net6.0\FirstCSharpProject.exe
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\DAY01\COURS_LECTURE\FirstCSharpProject\bin\Debug\net6.0\FirstCSharpProject.deps.json
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\DAY01\COURS_LECTURE\FirstCSharpProject\bin\Debug\net6.0\FirstCSharpProject.runtimeconfig.json
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\DAY01\COURS_LECTURE\FirstCSharpProject\bin\Debug\net6.0\FirstCSharpProject.dll
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\DAY01\COURS_LECTURE\FirstCSharpProject\bin\Debug\net6.0\FirstCSharpProject.pdb
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\DAY01\COURS_LECTURE\FirstCSharpProject\obj\Debug\net6.0\FirstCSharpProject.csproj.AssemblyReference.cache
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\DAY01\COURS_LECTURE\FirstCSharpProject\obj\Debug\net6.0\FirstCSharpProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\DAY01\COURS_LECTURE\FirstCSharpProject\obj\Debug\net6.0\FirstCSharpProject.AssemblyInfoInputs.cache
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\DAY01\COURS_LECTURE\FirstCSharpProject\obj\Debug\net6.0\FirstCSharpProject.AssemblyInfo.cs
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\DAY01\COURS_LECTURE\FirstCSharpProject\obj\Debug\net6.0\FirstCSharpProject.csproj.CoreCompileInputs.cache
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\DAY01\COURS_LECTURE\FirstCSharpProject\obj\Debug\net6.0\FirstCSharpProject.dll
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\DAY01\COURS_LECTURE\FirstCSharpProject\obj\Debug\net6.0\refint\FirstCSharpProject.dll
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\DAY01\COURS_LECTURE\FirstCSharpProject\obj\Debug\net6.0\FirstCSharpProject.pdb
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\DAY01\COURS_LECTURE\FirstCSharpProject\obj\Debug\net6.0\FirstCSharpProject.genruntimeconfig.cache
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\DAY01\COURS_LECTURE\FirstCSharpProject\obj\Debug\net6.0\ref\FirstCSharpProject.dll
