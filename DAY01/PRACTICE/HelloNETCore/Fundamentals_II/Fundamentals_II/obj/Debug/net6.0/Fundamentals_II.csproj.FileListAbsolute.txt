@@ -1,0 +1,15 @@
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY01\PRACTICE\HelloNETCore\Fundamentals_II\Fundamentals_II\bin\Debug\net6.0\Fundamentals_II.exe
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY01\PRACTICE\HelloNETCore\Fundamentals_II\Fundamentals_II\bin\Debug\net6.0\Fundamentals_II.deps.json
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY01\PRACTICE\HelloNETCore\Fundamentals_II\Fundamentals_II\bin\Debug\net6.0\Fundamentals_II.runtimeconfig.json
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY01\PRACTICE\HelloNETCore\Fundamentals_II\Fundamentals_II\bin\Debug\net6.0\Fundamentals_II.dll
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY01\PRACTICE\HelloNETCore\Fundamentals_II\Fundamentals_II\bin\Debug\net6.0\Fundamentals_II.pdb
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY01\PRACTICE\HelloNETCore\Fundamentals_II\Fundamentals_II\obj\Debug\net6.0\Fundamentals_II.csproj.AssemblyReference.cache
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY01\PRACTICE\HelloNETCore\Fundamentals_II\Fundamentals_II\obj\Debug\net6.0\Fundamentals_II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY01\PRACTICE\HelloNETCore\Fundamentals_II\Fundamentals_II\obj\Debug\net6.0\Fundamentals_II.AssemblyInfoInputs.cache
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY01\PRACTICE\HelloNETCore\Fundamentals_II\Fundamentals_II\obj\Debug\net6.0\Fundamentals_II.AssemblyInfo.cs
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY01\PRACTICE\HelloNETCore\Fundamentals_II\Fundamentals_II\obj\Debug\net6.0\Fundamentals_II.csproj.CoreCompileInputs.cache
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY01\PRACTICE\HelloNETCore\Fundamentals_II\Fundamentals_II\obj\Debug\net6.0\Fundamentals_II.dll
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY01\PRACTICE\HelloNETCore\Fundamentals_II\Fundamentals_II\obj\Debug\net6.0\refint\Fundamentals_II.dll
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY01\PRACTICE\HelloNETCore\Fundamentals_II\Fundamentals_II\obj\Debug\net6.0\Fundamentals_II.pdb
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY01\PRACTICE\HelloNETCore\Fundamentals_II\Fundamentals_II\obj\Debug\net6.0\Fundamentals_II.genruntimeconfig.cache
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY01\PRACTICE\HelloNETCore\Fundamentals_II\Fundamentals_II\obj\Debug\net6.0\ref\Fundamentals_II.dll
