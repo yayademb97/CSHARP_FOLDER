@@ -1,0 +1,15 @@
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY02\PRACTICE\DeekOfCards\bin\Debug\net6.0\DeekOfCards.exe
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY02\PRACTICE\DeekOfCards\bin\Debug\net6.0\DeekOfCards.deps.json
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY02\PRACTICE\DeekOfCards\bin\Debug\net6.0\DeekOfCards.runtimeconfig.json
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY02\PRACTICE\DeekOfCards\bin\Debug\net6.0\DeekOfCards.dll
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY02\PRACTICE\DeekOfCards\bin\Debug\net6.0\DeekOfCards.pdb
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY02\PRACTICE\DeekOfCards\obj\Debug\net6.0\DeekOfCards.csproj.AssemblyReference.cache
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY02\PRACTICE\DeekOfCards\obj\Debug\net6.0\DeekOfCards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY02\PRACTICE\DeekOfCards\obj\Debug\net6.0\DeekOfCards.AssemblyInfoInputs.cache
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY02\PRACTICE\DeekOfCards\obj\Debug\net6.0\DeekOfCards.AssemblyInfo.cs
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY02\PRACTICE\DeekOfCards\obj\Debug\net6.0\DeekOfCards.csproj.CoreCompileInputs.cache
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY02\PRACTICE\DeekOfCards\obj\Debug\net6.0\DeekOfCards.dll
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY02\PRACTICE\DeekOfCards\obj\Debug\net6.0\refint\DeekOfCards.dll
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY02\PRACTICE\DeekOfCards\obj\Debug\net6.0\DeekOfCards.pdb
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY02\PRACTICE\DeekOfCards\obj\Debug\net6.0\DeekOfCards.genruntimeconfig.cache
+C:\Users\a\OneDrive\Bureau\CSHARP_FOLDER\CSHARP_FOLDER\DAY02\PRACTICE\DeekOfCards\obj\Debug\net6.0\ref\DeekOfCards.dll
