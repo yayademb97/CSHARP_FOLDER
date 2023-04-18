@@ -1,9 +1,17 @@
-﻿Human player1 = new Human("John", 10, 5, 8, 100);
-Human player2 = new Human("Jane", 8, 7, 108, 120);
+﻿// create a human, wizard, ninja, and samurai
+Human john = new Human("John", 10, 10, 10, 100);
+Wizard gandalf = new Wizard("Gandalf", 5, 25, 10);
+Ninja naruto = new Ninja("Naruto", 10, 5, 75);
+Samurai musashi = new Samurai("Musashi", 15, 10, 10);
 
-Console.WriteLine($"Before ATTACk: {player1.Name} have {player1.Health}and point of life and {player2.Name} have {player2.Health} and point of life ");
+// have the wizard attack the human and heal the human
+gandalf.Attack(john); // output: Gandalf attacked John for 75 damage and healed for 75!
+gandalf.Heal(john); // output: Gandalf healed John for 75 health!
 
+// have the ninja attack the human and steal from the human
+naruto.Attack(john); // output: Naruto attacked John for 75 damage!
+naruto.Steal(john); // output: Naruto stole 5 health from John and added it to their own health!
 
-player1.Attack(player2);
-
-Console.WriteLine($"After ATTACk: {player1.Name} have {player1.Health}and point of life and {player2.Name} have {player2.Health} and point of life ");
+// have the samurai attack the human and meditate
+musashi.Attack(john); // output: Musashi attacked John for 45 damage!
+musashi.Meditate(); // output: Musashi meditated and healed back to full health!
