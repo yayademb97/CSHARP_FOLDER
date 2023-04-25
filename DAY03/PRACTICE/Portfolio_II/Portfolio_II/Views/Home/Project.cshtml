@@ -15,27 +15,15 @@
 
         <h1 style="text-align: center;"><a href="/">Home</a> | Projects | <a href="/Contact">Contact</a></h1>
         <div>
-            <div>
-                <p>Project 1</p>
-                <a href="~/css/img">
-                    <img border="0" alt="logo" src="~/img/project1.png" width="200" height="200">
-                </a>
-                <p>Description</p>
-            </div>
-            <div>
-                <p>Project 2</p>
-                <a href="~/css/img">
-                    <img border="0" alt="logo" src="~/img/project2.png" width="200" height="200">
-                </a>
-                <p>Description</p>
-            </div>
-            <div>
-                <p>Project 3</p>
-                <a href="~/css/img">
-                    <img border="0" alt="logo" src="~/img/project3.png" width="200" height="200">
-                </a>
-                <p>Description</p>
-            </div>
+            @{
+                for (int i = 0; i < 4; i++)
+                {
+                    <div class="proj-row">
+                        <img src="~/img/project1.png" width="50" class="proj-col-left" alt="">
+                        <div class="proj-col-right">Cool Thing!</div>
+                    </div>
+                }
+            }
         </div>
     </div>
 

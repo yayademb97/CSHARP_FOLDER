@@ -17,3 +17,12 @@
 {
     font-size: 1.5rem;
 }
+
+.proj-col-left
+{
+    flex:10%;
+}
+.container
+{
+    text-align: center;
+}
