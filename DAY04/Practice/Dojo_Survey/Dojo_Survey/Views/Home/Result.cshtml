@@ -1,0 +1,17 @@
+@model List<Survey>
+<h1>
+    Yes , You Made it 🏆🥇
+</h1>
+<hr>
+<div class="text-center">
+@{
+    foreach(Survey s in Model)
+    {
+        <h3>@s.YourName</h3>
+        <h3>@s.DojoLocation</h3>
+        <h3>@s.FavLanguage</h3>
+        <h3>@s.Comment</h3>
+    }
+}
+</div>
+
